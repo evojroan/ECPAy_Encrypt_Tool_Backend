@@ -149,8 +149,4 @@ app.listen(port, () => {
 });
 
 // 部署到 Vercel 需要增加這一行
-//export default app;
-
-//1. 有前後端有很多問題
-//2.  input 輸入的都是 string
-//3.
+export default app;

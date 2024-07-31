@@ -22,14 +22,15 @@
 
 ### 2. 線上
 
-不用安裝，已部署於線上，直接前往：（WIP）
+不用安裝，已部署於線上，直接前往：https://epay-encrypt-tool-frontend.vercel.app/
 
 ## 使用技術
+
 - React.js
 - Node.js
 - 前後端分離
 
 ## 本程式作者
 
-[Roan 的網誌](https://medium.com/@roan6903)
-[Roan 的 GitHub](https://github.com/evojroan)
+- [Roan 的網誌](https://medium.com/@roan6903)
+- [Roan 的 GitHub](https://github.com/evojroan)
